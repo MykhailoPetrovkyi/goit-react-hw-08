@@ -1,0 +1,16 @@
+.form {
+  width: 250px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  margin-bottom: 25px;
+}
+.field {
+  display: flex;
+  flex-direction: column;
+}
+.btn {
+  width: auto;
+}

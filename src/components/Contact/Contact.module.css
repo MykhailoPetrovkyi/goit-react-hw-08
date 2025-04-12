@@ -1,0 +1,25 @@
+.div {
+  position: relative;
+  width: 230px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.btn {
+  position: absolute;
+  right: 0;
+  top: 4px;
+  bottom: 0;
+  border: none;
+  background-color: inherit;
+}
+.editBtn {
+  background-color: inherit;
+  position: absolute;
+  right: 40px;
+  top: 10px;
+  border: none;
+}
+.p {
+  margin: 0;
+}

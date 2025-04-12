@@ -1,0 +1,14 @@
+.div {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  width: 210px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 2px;
+}
+.p {
+  margin: 0;
+  margin-top: 15px;
+}
